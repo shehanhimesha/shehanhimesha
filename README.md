@@ -64,14 +64,17 @@ Currently learning:
 ---
 
 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehanhimeaha&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
 </p>
-[9/28/2026 11:53 AM] Shehan Himesha: <p align="center">
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanhimeaha&theme=github_dark" width="49%" alt="Repositories per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanhimeaha&theme=github_dark" width="49%" alt="Most Commit Language"/>
 </p>
-[9/28/2026 11:54 AM] Shehan Himesha: <p align="center">
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehanhimeaha&theme=github_dark" width="49%" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shehanhimeaha&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time"/>
 </p>
