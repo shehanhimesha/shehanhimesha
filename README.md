@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Shehan Himesha - Software Engineering Cyber Security Web Development">
+<img src="./banner.jpg" width="100%" alt="Shehan Himesha - Software Engineering Cyber Security Web Development">
 
 </div>
 
