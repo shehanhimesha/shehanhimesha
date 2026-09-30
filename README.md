@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Cyber+Security+Enthusiast;Web+Developer;Always+Learning+%26+Building" alt="Typing SVG">
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shehanhimesha&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanhimesha&layout=compact&theme=github_dark&hide_border=true" height="180">
-
-</div>
-
 # 👋 Hi, I'm Shehan Himesha
 
 ### 💻 Software Engineering Student | 🔐 Cyber Security Enthusiast | 🌐 Web Developer
@@ -74,6 +62,19 @@ Currently learning:
 - 🧪 Security Labs & Practical Exercises
 
 ---
+
+📊 GitHub Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehanhimeaha&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
+</p>
+[9/28/2026 11:53 AM] Shehan Himesha: <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanhimeaha&theme=github_dark" width="49%" alt="Repositories per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanhimeaha&theme=github_dark" width="49%" alt="Most Commit Language"/>
+</p>
+[9/28/2026 11:54 AM] Shehan Himesha: <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehanhimeaha&theme=github_dark" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shehanhimeaha&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time"/>
+</p>
 
 ## 📌 Current Projects
 
