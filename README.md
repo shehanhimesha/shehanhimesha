@@ -8,6 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Cyber+Security+Enthusiast;Web+Developer;Always+Learning+%26+Building" alt="Typing SVG">
 </p>
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shehanhimesha&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanhimesha&layout=compact&theme=github_dark&hide_border=true" height="180">
+
+</div>
+
 # 👋 Hi, I'm Shehan Himesha
 
 ### 💻 Software Engineering Student | 🔐 Cyber Security Enthusiast | 🌐 Web Developer
