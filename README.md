@@ -66,17 +66,17 @@ Currently learning:
 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehanhimeaha&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehanhimeaha&theme=github_dark" width="49%" alt="Repositories per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehanhimeaha&theme=github_dark" width="49%" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehanhimeaha&theme=github_dark" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shehanhimeaha&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time"/>
+  <a href="https://github.com/shehanhimeaha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehanhimeaha&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p><p align="center">
+  <a href="https://github.com/shehanhimeaha?tab=repositories">
+    🔥 View My Repositories
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/shehanhimeaha?tab=activity">
+    📈 View My Activity
+  </a>
 </p>
 
 ## 📌 Current Projects
