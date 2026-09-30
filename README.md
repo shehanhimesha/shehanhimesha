@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./banner.png" width="100%" alt="Shehan Himesha - Software Engineering Cyber Security Web Development">
+
+</div>
+
 # 👋 Hi, I'm Shehan Himesha
 
 ### 💻 Software Engineering Student | 🔐 Cyber Security Enthusiast | 🌐 Web Developer
