@@ -11,7 +11,7 @@
 
 <!-- Dynamic Typing Animation with Multiple Lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Commit+at+a+Time+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=Software+Engineering+Student+%F0%9F%9A%80;Cyber+Security+Enthusiast+%F0%9F%92%A1;Web+Developer+%2C+One+Commit+at+a+Time+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views Counter with Animation -->
@@ -147,8 +147,8 @@ const himesha: Developer = {
 
 <!-- Main Stats Row -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dulitha-kadukapuma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dulitha-kadukapuma&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shehanhimesha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shehanhimesha&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
 </p>
 
 <!-- Language Stats and Contribution Graph -->
@@ -156,12 +156,12 @@ const himesha: Developer = {
 
 <!-- Activity Graph -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulitha-kadukapuma&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E96&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehanhimesha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E96&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
 </p>
 
 <!-- Additional Metrics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulitha-kadukapuma&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehanhimesha&theme=radical" alt="Profile Summary"/>
 </p>
 
 </div>
@@ -185,15 +185,15 @@ const himesha: Developer = {
 
 <!-- Repository Cards Grid -->
 <p align="center">
-  <a href="https://github.com/dulitha-kadukapuma/testyourchoice3">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dulitha-kadukapuma&repo=testyourchoice3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
+  <a href="https://github.com/shehanhimesha/testyourchoice3">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shehanhimesha&repo=testyourchoice3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
   </a>
  
 </p>
 
 <!-- View All Button -->
 <p align="center">
-  <a href="https://github.com/dulitha-kadukapuma?tab=repositories">
+  <a href="https://github.com/shehanhimesha?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
@@ -218,17 +218,17 @@ const himesha: Developer = {
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://github.com/dulitha-kadukapuma">
+  <a href="https://github.com/shehanhimesha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:dulithakadukapuma12345@gmail.com">
+  <a href="mailto:shehanhimesha0127@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kadukapuma">
+  <a href="https://www.buymeacoffee.com/shehanhimesha">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
@@ -238,7 +238,7 @@ const himesha: Developer = {
   <tr>
     <td align="center">
       <b>📧 Email</b><br/>
-      dulithakadukapuma12345@gmail.com
+      shehanhimesha0127@gmail.com
     </td>
     <td align="center">
       <b>🌍 Location</b><br/>
@@ -275,10 +275,10 @@ const himesha: Developer = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/dulitha-kadukapuma">
+  <a href="https://github.com/sponsors/shehanhimesha">
     <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"/>
   </a>
-  <a href="https://www.buymeacoffee.com/dulitha-kadukapuma">
+  <a href="https://www.buymeacoffee.com/shehanhimesha">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
@@ -305,14 +305,14 @@ const himesha: Developer = {
 
 <p align="center">
   <b>Made with 💙 and lots of ☕</b><br/>
-  <sub>© 2026 DulithaKadukapuma. All rights reserved.</sub><br/><br/>
+  <sub>© 2026 Shehan Himesha. All rights reserved.</sub><br/><br/>
   <i>If you liked this profile, don't forget to ⭐ star my repositories!</i>
 </p>
 
 <!-- GitHub Stats Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulitha-kadukapuma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulitha-kadukapuma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="150" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shehanhimesha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanhimesha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="150" alt="languages"/>
 </p>
 
 </div>
